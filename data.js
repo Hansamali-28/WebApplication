@@ -1,7 +1,7 @@
 const users = [
   { 
     id: 1, 
-    name: "Uthpala H", 
+    name: "Uthpala Ha", 
     role: "Admin" 
   },
   { 
